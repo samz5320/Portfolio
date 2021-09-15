@@ -17,35 +17,25 @@ svg {
 
 .name-sec{
   position: fixed;
-  top: 40%;
-  left: 53%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%);
+  top: 25%;
+  left: 22%;
     
 }
 
 
 .motive{
   position: fixed;
-  top: 48%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -50%); 
+  top: 35%;
+  left: 37%;
     font-size: 40px;
     color: black;
-    justify-content: center; 
-
-    
-
 }
 
 
   .container {
     position: fixed;
-    top: 60%;
-    left: 50%;
-    /* bring your own prefixes */
-    transform: translate(-50%, -50%);
+    top: 40%;
+    left: 37%;
     }
   .btn-outline { 
    margin-top: 15px; 
@@ -77,11 +67,8 @@ svg {
     font-size: 35px;
 
   }
-  .icon1{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+ 
+
   .list-inline { 
     padding-left: 0; 
     list-style: none; 
