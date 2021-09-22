@@ -16,7 +16,7 @@ svg {
 }   
 
 .name-sec{
-  position: relative;
+  position: fixed;
   top: 25%;
   left: 22%;
     
@@ -24,7 +24,7 @@ svg {
 
 
 .motive{
-  position: relative;
+  position: fixed;
   top: 35%;
   left: 37%;
     font-size: 40px;
@@ -33,7 +33,7 @@ svg {
 
 
   .container {
-    position: relative;
+    position: fixed;
     top: 40%;
     left: 37%;
     }
